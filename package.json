@@ -1,0 +1,15 @@
+{
+  "name": "botrum-web",
+  "version": "1.0.0",
+  "description": "Landing page de Botrum Proyectos S.L.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
